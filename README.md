@@ -1,20 +1,20 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Patika.dev](patika.dev) Java Backend egitimi icin hazirlanmis repodur. Icerisinde bir adet README dosyasi, bir adet Index.html barindirir.
 
+![screenshot](https://imgyukle.com/i/VrWuC0)
+
 ## Installation
 Oncelikle bu projeyi klonlayın 
 
-'''
-git clone https://github.com/onurdogan91/kodluyoruzilkrepo.git
-'''
+`git clone https://github.com/onurdogan91/kodluyoruzilkrepo.git`
+
 
 ## Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 Linux icin:
 
-'''
-cd kodluyoruz ilk repo
-code.
+`cd kodluyoruz ilk repo
+code.`
 '''
 
 ## Contributing
